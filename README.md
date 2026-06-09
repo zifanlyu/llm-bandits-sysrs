@@ -4,7 +4,8 @@ This repository contains the codebase for the paper:
 
 > **Cutting LLM Evaluation Costs with SySRs: A Bandit Algorithm that Provably Exploits Model Similarity**  
 > Zifan Lyu, Chahine Nejma, Tobias Wegel, Fanny Yang, Florian Dorner 
-> ICML 2026 — [https://icml.cc/virtual/2026/poster/60876](https://icml.cc/virtual/2026/poster/60876)
+> ICML 2026 — [https://icml.cc/virtual/2026/poster/60876](https://icml.cc/virtual/2026/poster/60876)  
+> arXiv — [https://arxiv.org/abs/2606.07726](https://arxiv.org/abs/2606.07726)
 
 ## Overview
 
